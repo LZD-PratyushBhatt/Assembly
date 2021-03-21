@@ -1,0 +1,17 @@
+Dependencies for Project 'BinaryCOunter', Target 'Target 1': (DO NOT MODIFY !)
+F (.\startup_LPC17xx.s)(0x532C1658)(--cpu Cortex-M3 --pd "__EVAL SETA 1" -g --apcs=interwork -I E:\Software\KEIL\ARM\RV31\INC-I E:\Software\KEIL\ARM\CMSIS\Include-I E:\Software\KEIL\ARM\Inc\NXP\LPC17xx--list .\startup_lpc17xx.lst --xref -o .\startup_lpc17xx.o --depend .\startup_lpc17xx.d)
+F (.\Binarycounter.c)(0x5FE19538)(-c --cpu Cortex-M3 -D__EVAL -g -O0 --apcs=interwork -I E:\Software\KEIL\ARM\RV31\INC-I E:\Software\KEIL\ARM\CMSIS\Include-I E:\Software\KEIL\ARM\Inc\NXP\LPC17xx-o .\binarycounter.o --omf_browse .\binarycounter.crf --depend .\binarycounter.d)
+I (E:\Software\KEIL\ARM\Inc\NXP\LPC17xx\LPC17XX.H)(0x532C1734)
+I (E:\Software\KEIL\ARM\CMSIS\Include\core_cm3.h)(0x532C1AEA)
+I (E:\Software\KEIL\ARM\ARMCC\include\stdint.h)(0x51C7E87C)
+I (E:\Software\KEIL\ARM\CMSIS\Include\core_cmInstr.h)(0x532C1AEA)
+I (E:\Software\KEIL\ARM\CMSIS\Include\core_cmFunc.h)(0x532C1AEA)
+I (E:\Software\KEIL\ARM\Inc\NXP\LPC17xx\system_LPC17xx.h)(0x532C1734)
+F (E:\Software\KEIL\ARM\Startup\NXP\LPC17xx\system_LPC17xx.c)(0x532C1658)(-c --cpu Cortex-M3 -D__EVAL -g -O0 --apcs=interwork -I E:\Software\KEIL\ARM\RV31\INC-I E:\Software\KEIL\ARM\CMSIS\Include-I E:\Software\KEIL\ARM\Inc\NXP\LPC17xx-o .\system_lpc17xx.o --omf_browse .\system_lpc17xx.crf --depend .\system_lpc17xx.d)
+I (E:\Software\KEIL\ARM\ARMCC\include\stdint.h)(0x51C7E87C)
+I (E:\Software\KEIL\ARM\Inc\NXP\LPC17xx\LPC17xx.h)(0x532C1734)
+I (E:\Software\KEIL\ARM\CMSIS\Include\core_cm3.h)(0x532C1AEA)
+I (E:\Software\KEIL\ARM\CMSIS\Include\core_cmInstr.h)(0x532C1AEA)
+I (E:\Software\KEIL\ARM\CMSIS\Include\core_cmFunc.h)(0x532C1AEA)
+I (E:\Software\KEIL\ARM\Inc\NXP\LPC17xx\system_LPC17xx.h)(0x532C1734)
+F (.\RIngCounter.c)(0x5FE1980F)(-c --cpu Cortex-M3 -D__EVAL -g -O0 --apcs=interwork -I E:\Software\KEIL\ARM\RV31\INC-I E:\Software\KEIL\ARM\CMSIS\Include-I E:\Software\KEIL\ARM\Inc\NXP\LPC17xx-o .\ringcounter.o --omf_browse .\ringcounter.crf --depend .\ringcounter.d)

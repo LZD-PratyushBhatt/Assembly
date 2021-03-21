@@ -1,0 +1,9 @@
+.\grayled.o: grayLED.c
+.\grayled.o: E:\Software\KEIL\ARM\Inc\NXP\LPC17xx\lpc17xx.h
+.\grayled.o: E:\Software\KEIL\ARM\CMSIS\Include\core_cm3.h
+.\grayled.o: E:\Software\KEIL\ARM\ARMCC\bin\..\include\stdint.h
+.\grayled.o: E:\Software\KEIL\ARM\CMSIS\Include\core_cmInstr.h
+.\grayled.o: E:\Software\KEIL\ARM\CMSIS\Include\core_cmFunc.h
+.\grayled.o: E:\Software\KEIL\ARM\Inc\NXP\LPC17xx\system_LPC17xx.h
+.\grayled.o: E:\Software\KEIL\ARM\ARMCC\bin\..\include\stdio.h
+.\grayled.o: E:\Software\KEIL\ARM\ARMCC\bin\..\include\stdlib.h

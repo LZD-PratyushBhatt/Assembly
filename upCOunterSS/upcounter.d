@@ -1,0 +1,9 @@
+.\upcounter.o: upcounter.c
+.\upcounter.o: E:\Software\KEIL\ARM\Inc\NXP\LPC17xx\lpc17xx.h
+.\upcounter.o: E:\Software\KEIL\ARM\CMSIS\Include\core_cm3.h
+.\upcounter.o: E:\Software\KEIL\ARM\ARMCC\bin\..\include\stdint.h
+.\upcounter.o: E:\Software\KEIL\ARM\CMSIS\Include\core_cmInstr.h
+.\upcounter.o: E:\Software\KEIL\ARM\CMSIS\Include\core_cmFunc.h
+.\upcounter.o: E:\Software\KEIL\ARM\Inc\NXP\LPC17xx\system_LPC17xx.h
+.\upcounter.o: E:\Software\KEIL\ARM\ARMCC\bin\..\include\stdio.h
+.\upcounter.o: E:\Software\KEIL\ARM\ARMCC\bin\..\include\stdlib.h

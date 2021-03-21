@@ -1,0 +1,9 @@
+.\calculator.o: Calculator.c
+.\calculator.o: E:\Software\KEIL\ARM\Inc\NXP\LPC17xx\lpc17xx.h
+.\calculator.o: E:\Software\KEIL\ARM\CMSIS\Include\core_cm3.h
+.\calculator.o: E:\Software\KEIL\ARM\ARMCC\bin\..\include\stdint.h
+.\calculator.o: E:\Software\KEIL\ARM\CMSIS\Include\core_cmInstr.h
+.\calculator.o: E:\Software\KEIL\ARM\CMSIS\Include\core_cmFunc.h
+.\calculator.o: E:\Software\KEIL\ARM\Inc\NXP\LPC17xx\system_LPC17xx.h
+.\calculator.o: E:\Software\KEIL\ARM\ARMCC\bin\..\include\stdio.h
+.\calculator.o: E:\Software\KEIL\ARM\ARMCC\bin\..\include\stdlib.h

@@ -1,0 +1,1 @@
+.\ringcounter.o: RIngCounter.c

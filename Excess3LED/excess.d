@@ -1,0 +1,9 @@
+.\excess.o: Excess.c
+.\excess.o: E:\Software\KEIL\ARM\Inc\NXP\LPC17xx\lpc17xx.h
+.\excess.o: E:\Software\KEIL\ARM\CMSIS\Include\core_cm3.h
+.\excess.o: E:\Software\KEIL\ARM\ARMCC\bin\..\include\stdint.h
+.\excess.o: E:\Software\KEIL\ARM\CMSIS\Include\core_cmInstr.h
+.\excess.o: E:\Software\KEIL\ARM\CMSIS\Include\core_cmFunc.h
+.\excess.o: E:\Software\KEIL\ARM\Inc\NXP\LPC17xx\system_LPC17xx.h
+.\excess.o: E:\Software\KEIL\ARM\ARMCC\bin\..\include\stdio.h
+.\excess.o: E:\Software\KEIL\ARM\ARMCC\bin\..\include\stdlib.h

@@ -1,0 +1,9 @@
+.\lcd_simple.o: LCD_Simple.c
+.\lcd_simple.o: E:\Software\KEIL\ARM\Inc\NXP\LPC17xx\lpc17xx.h
+.\lcd_simple.o: E:\Software\KEIL\ARM\CMSIS\Include\core_cm3.h
+.\lcd_simple.o: E:\Software\KEIL\ARM\ARMCC\bin\..\include\stdint.h
+.\lcd_simple.o: E:\Software\KEIL\ARM\CMSIS\Include\core_cmInstr.h
+.\lcd_simple.o: E:\Software\KEIL\ARM\CMSIS\Include\core_cmFunc.h
+.\lcd_simple.o: E:\Software\KEIL\ARM\Inc\NXP\LPC17xx\system_LPC17xx.h
+.\lcd_simple.o: E:\Software\KEIL\ARM\ARMCC\bin\..\include\stdio.h
+.\lcd_simple.o: E:\Software\KEIL\ARM\ARMCC\bin\..\include\stdlib.h

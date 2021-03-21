@@ -1,0 +1,9 @@
+.\code2.o: code2.c
+.\code2.o: E:\Software\KEIL\ARM\Inc\NXP\LPC17xx\lpc17xx.h
+.\code2.o: E:\Software\KEIL\ARM\CMSIS\Include\core_cm3.h
+.\code2.o: E:\Software\KEIL\ARM\ARMCC\bin\..\include\stdint.h
+.\code2.o: E:\Software\KEIL\ARM\CMSIS\Include\core_cmInstr.h
+.\code2.o: E:\Software\KEIL\ARM\CMSIS\Include\core_cmFunc.h
+.\code2.o: E:\Software\KEIL\ARM\Inc\NXP\LPC17xx\system_LPC17xx.h
+.\code2.o: E:\Software\KEIL\ARM\ARMCC\bin\..\include\stdio.h
+.\code2.o: E:\Software\KEIL\ARM\ARMCC\bin\..\include\stdlib.h

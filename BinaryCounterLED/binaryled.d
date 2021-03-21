@@ -1,0 +1,9 @@
+.\binaryled.o: binaryLED.c
+.\binaryled.o: E:\Software\KEIL\ARM\Inc\NXP\LPC17xx\lpc17xx.h
+.\binaryled.o: E:\Software\KEIL\ARM\CMSIS\Include\core_cm3.h
+.\binaryled.o: E:\Software\KEIL\ARM\ARMCC\bin\..\include\stdint.h
+.\binaryled.o: E:\Software\KEIL\ARM\CMSIS\Include\core_cmInstr.h
+.\binaryled.o: E:\Software\KEIL\ARM\CMSIS\Include\core_cmFunc.h
+.\binaryled.o: E:\Software\KEIL\ARM\Inc\NXP\LPC17xx\system_LPC17xx.h
+.\binaryled.o: E:\Software\KEIL\ARM\ARMCC\bin\..\include\stdio.h
+.\binaryled.o: E:\Software\KEIL\ARM\ARMCC\bin\..\include\stdlib.h

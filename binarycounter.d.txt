@@ -1,0 +1,7 @@
+.\binarycounter.o: Binarycounter.c
+.\binarycounter.o: E:\Software\KEIL\ARM\Inc\NXP\LPC17xx\LPC17XX.H
+.\binarycounter.o: E:\Software\KEIL\ARM\CMSIS\Include\core_cm3.h
+.\binarycounter.o: E:\Software\KEIL\ARM\ARMCC\bin\..\include\stdint.h
+.\binarycounter.o: E:\Software\KEIL\ARM\CMSIS\Include\core_cmInstr.h
+.\binarycounter.o: E:\Software\KEIL\ARM\CMSIS\Include\core_cmFunc.h
+.\binarycounter.o: E:\Software\KEIL\ARM\Inc\NXP\LPC17xx\system_LPC17xx.h
